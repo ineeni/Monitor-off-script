@@ -22,6 +22,6 @@ By default, the script binds to the **F24** key. When triggered, it waits for 50
 Double-click `monitor_off.bat` to execute the PowerShell script which invokes the `SendMessage` Win32 API natively.
 
 ## Credits & Acknowledgments
-Special thanks to **DaneBlood** for the idea!
+Special thanks to **DaneBlood**
 
 
